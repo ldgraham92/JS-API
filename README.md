@@ -15,8 +15,5 @@ Render the returned data using DOM
 Make it look nice with some CSS!  
 Add a form to customize the request (use an API that accepts POST or GET parameters)  
 
-# Trello
-https://trello.com/b/qW4MgIRH/js-ajax-api
-
 # Postman Screenshots
 Located in the /img/ directory.
