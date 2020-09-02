@@ -1,0 +1,36 @@
+body{
+    max-width: 800px;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    background-size: 1000px;
+    background: rgb(2,139,167);
+    background: linear-gradient(90deg, rgba(2,139,167,1) 0%, rgba(0,233,251,1) 57%, rgba(25,117,168,1) 97%);
+}
+
+h1{
+    margin-bottom: 50px;
+}
+h2{
+    background-color: rgba(80,80,80,0.4);
+    border-radius: 5px;
+}
+
+dl{
+    background-color: rgba(40,40,40,0.2);
+    border-radius: 10px;
+    
+}
+
+dt{
+    font-weight: bold;
+}
+
+footer{
+    margin-top: 100px;
+}
+
+#submitted{
+    padding-top: 10px;
+}
